@@ -1,4 +1,4 @@
 # Crowdfunding_ETL
-##Project 2: Extract, Transform, Load Crowfuding Project
+## Project 2: Extract, Transform, Load Crowfuding Project
 
-###Scott Johnson Solution
+### Scott Johnson Solution
